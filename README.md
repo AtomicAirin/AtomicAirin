@@ -2,9 +2,9 @@
   
 # Hi! I'm Airin ⟨"*i*-rin"⟩.
 
-</div>
-
 I’m currently working on **SYNCOR** (Software for Numerical Computation and Optimization Routines).
+
+</div>
 
 ## SYNCOR
 
