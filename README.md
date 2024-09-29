@@ -1,7 +1,6 @@
 <div align="center">
   
-<strong style="font-size: 2em;">Hi! I'm Airin</strong>  
-⟨"i-rin"⟩
+<strong style="font-size: 4em;">Hi! I'm Airin</strong> ⟨"*i*-rin"⟩
 
 I’m currently working on SYNCOR, an alternative to expensive optimization software.
 
